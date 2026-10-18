@@ -283,7 +283,7 @@ Screenshots of the deployed application can be added here.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Gopi-banoth/customer-churn-predictor.git
+git clone https://github.com/ahmedramzan-ai/customer-churn-predictor.git
 cd customer-churn-predictor
 ```
 
